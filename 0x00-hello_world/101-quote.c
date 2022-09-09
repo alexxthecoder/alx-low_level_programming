@@ -5,7 +5,9 @@
  *
  * write function, may double as printf alternative?
  *
- * main Return value - 1
+ * main -prints text exactly
+ * 
+ * Return value - 1
  */
 int main(void)
 {
