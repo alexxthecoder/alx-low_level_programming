@@ -19,6 +19,6 @@ char string[70] = "\"Programming is like building a multilingual puzzle\"";
 	puts(string);
 
 
-	puts("\"Programming is like building a multilingual puzzle\n"");
+	puts("\"Programming is like building a multilingual puzzle\"");
 	return (0);
 }
