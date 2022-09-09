@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <unistd.h>
 /**
- * main -main Entry
+ * main - main Entry
  *
  * write function, may double as printf alternative?
  *
