@@ -2,7 +2,6 @@
 /**
  * print_last_digit - prints the last digits of any number
  * @a: the int value to be acted upon
- * author: sammykingx
  * Return: returns the last digit to calling function
 */
 int print_last_digit(int a)
