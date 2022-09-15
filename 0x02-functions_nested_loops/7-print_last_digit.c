@@ -14,3 +14,4 @@ int print_last_digit(int a)
 		a = _abs(a % 10);
 		return (a);
 	}
+}	
