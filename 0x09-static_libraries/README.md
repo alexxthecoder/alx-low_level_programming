@@ -1,1 +1,1 @@
-Creating static library to call upon
+Messing with static libraries
